@@ -28,4 +28,4 @@ SPI: 10 (SS), 11 (MOSI), 12 (MISO), 13 (SCK). These pins support SPI communicati
 * https://www.arduino.cc/en/reference/SPI
 * https://github.com/adafruit/MAX6675-library
 * https://www.thermocoupleinfo.com/thermocouple-color-codes.htm
-* 
+* https://learn.adafruit.com/adafruit-gfx-graphics-library/graphics-primitives
