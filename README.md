@@ -23,6 +23,10 @@ In addition to the shared SPI pins, the following specific connections are also 
 
 SPI: 10 (SS), 11 (MOSI), 12 (MISO), 13 (SCK). These pins support SPI communication, which, although provided by the underlying hardware, is not currently included in the Arduino language.
 
+All worked easily. No further research / testing required at this time.
+
+![Multiple SPI Slaves Breadboard Setup](MultipleSPISlavesBreadboardSetup.jpg)
+
 ## References
 * https://www.circuitsathome.com/mcu/running-multiple-slave-devices-on-arduino-spi-bus/
 * https://www.arduino.cc/en/reference/SPI
